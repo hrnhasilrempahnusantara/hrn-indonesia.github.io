@@ -1,0 +1,7 @@
+body {font-family: Arial; margin:0; background:#f7f8f3;}
+header {background:#0e3d2f; color:gold; padding:20px; text-align:center;}
+nav {background:#145c43; padding:10px; text-align:center;}
+nav a {color:white; margin:0 15px; text-decoration:none; font-weight:bold;}
+section {padding:40px;}
+footer {background:#0e3d2f; color:white; text-align:center; padding:10px;}
+button {background:#145c43; color:white; padding:8px 15px; border:none;}
